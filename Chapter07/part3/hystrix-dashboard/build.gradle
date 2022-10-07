@@ -15,7 +15,6 @@ buildscript {
 
 plugins {
 	// tag::gradle-git[]
-	id "com.gorylenko.gradle-git-properties" version "1.4.17"
 	// end::gradle-git[]
 }
 
